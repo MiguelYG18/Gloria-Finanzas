@@ -252,7 +252,7 @@
                 // Create axis ranges bands
                 var bandsData = [{
                     title: "Bajo",
-                    color: "#ee1f25",
+                    color: "#54b947",
                     lowScore: 0,
                     highScore: 50
                 }, {
@@ -262,12 +262,12 @@
                     highScore: 100
                 }, {
                     title: "Alto",
-                    color: "#54b947",
-                    lowScore: 101,
+                    color: "#ee1f25",
+                    lowScore: 100.3,
                     highScore: 150
                 }, {
                     title: "Super Alto",
-                    color: "#008000",
+                    color: "#CB4335",
                     lowScore: 151,
                     highScore: 200
                 }];
